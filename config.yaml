@@ -8,15 +8,16 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Ignacio
+      This is my first webpage created with R. You'll find here some of my contact details,
+      a map of all the countries I have visited and a project I did while studying the MiF 
+      at LBS.
+    title: Hi, my name is Ignacio Landerreche
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London. UK
+        country: GB
+        street: London Business School. Regent's Park. London. NW1 4SA ; Taunton Centre. 25 Taunton Place
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +26,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: LBS Phone:+44 (0)20 7000 7001
         title: Phone
   custom_css: []
   custom_js: []
@@ -47,18 +48,18 @@ params:
    #     url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/ignacio.landerreche/
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/landerreche/
       - icon: fa-github
         label: GitHub
         url: https://www.github.com/ignaciolanderreche
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/ignaciolanderrechev/
   image: ''
-  name: Your name
+  name: Ignacio Landerreche
   navigation:
     button1:
       - name: Get Started

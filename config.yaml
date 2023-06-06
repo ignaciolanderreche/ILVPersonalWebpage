@@ -18,12 +18,12 @@ params:
         country: GB
         street: London Business School. Regent's Park. London. NW1 4SA ; Taunton Centre. 25 Taunton Place
         title: Address
-    buttonClear: Clear
-    buttonSend: Send message
-    email:
-      - email: landerreche@hotmail.com
-        title: Email
-    enable: yes
+    #buttonClear: Clear
+    #buttonSend: Send message
+    #email:
+     # - email: landerreche@hotmail.com
+      #  title: Email
+    #enable: yes
     phone:
       - phone: LBS Phone:+44 (0)20 7000 7001
         title: Phone
@@ -67,28 +67,28 @@ params:
      # - name: Log In
       #  url: '#'
     links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
-   #   - name: Generic Blog
-    #    url: blogs/ipsum
+     - name: Home
+        #url: '#'
+     #- name: My map
+       # url: blogs/map_website
+    # - name: Homework 2
+       # url: blogs/homework2
      # - name: Elements
       #  url: elements.html
     menu: Menu
     subtitle: First webpage
-    title: Landerreche
+    title: Landerreche's
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: mimapa.jpeg
+        subtitle: Countries that I have visited in my life
+        title: My map
+        url: blogs/map_website
+      - image: grafica.png
+        subtitle: This was the second homework using R Studio
+        title: Homework 2
+        url: blogs/homework2
      # - image: pic03.jpg
       #  subtitle: Lorem Etiam Nullam
        # title: Magna
